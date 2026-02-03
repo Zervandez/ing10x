@@ -1,10 +1,10 @@
-# 10x
+# ing10x
 
-> Master programming through deliberate practice — implement each project in multiple languages.
+> Attempting to master coding through practice. Implementing each project in multiple languages to profit from associative memory. 
 
 A curated collection of **400+ programming projects** across 7 domains, designed to be implemented in **Go, Python, C, Rust, Java, C++, and Dart**. Each project is small enough to complete in a few hours but meaningful enough to teach real concepts.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 10x/
@@ -19,20 +19,19 @@ A curated collection of **400+ programming projects** across 7 domains, designed
 
 Each project follows this structure:
 ```
-domain/category/project-name/
+ing10x/domain/category/project-name/
 ├── go/
 ├── python/
 ├── c/
 ├── rust/
 ├── java/
 ├── cpp/
-├── dart/
-└── README.md               # Project specification
+└── dart/
 ```
 
 ---
 
-## 🖥️ CLI Projects
+## CLI Projects
 
 Command-line tools and utilities for everyday tasks.
 
@@ -139,7 +138,7 @@ Command-line tools and utilities for everyday tasks.
 
 ---
 
-## 🎯 Paradigms Projects
+## Paradigms Projects
 
 Object-oriented programming, functional programming, design patterns, and computer science fundamentals.
 
@@ -243,11 +242,9 @@ Object-oriented programming, functional programming, design patterns, and comput
 
 ---
 
-## 🔐 Security Projects
+## Security Projects
 
 Ethical hacking, penetration testing, forensics, and security tools.
-
-> ⚠️ **Legal Notice**: Only test on systems you own or have written permission to test. Practice on CTF platforms like HackTheBox, TryHackMe, and vulnerable VMs (DVWA, Metasploitable).
 
 ### Network Reconnaissance
 | # | Project | Description |
@@ -358,7 +355,7 @@ Ethical hacking, penetration testing, forensics, and security tools.
 
 ---
 
-## ⚙️ Systems Programming
+## Systems Programming
 
 Low-level systems, operating system concepts, and system utilities.
 
@@ -465,7 +462,7 @@ Low-level systems, operating system concepts, and system utilities.
 
 ---
 
-## 🔌 Embedded & IoT
+## Embedded & IoT
 
 Embedded systems, microcontrollers, sensors, and Internet of Things.
 
@@ -573,7 +570,7 @@ Embedded systems, microcontrollers, sensors, and Internet of Things.
 
 ---
 
-## 🌐 Distributed Systems
+## Distributed Systems
 
 Distributed computing, consensus, coordination, and scalable architectures.
 
@@ -678,7 +675,7 @@ Distributed computing, consensus, coordination, and scalable architectures.
 
 ---
 
-## 🌍 Web & API Development
+## Web & API Development
 
 Web servers, REST APIs, GraphQL, authentication, and microservices.
 
@@ -826,52 +823,10 @@ cmake -B build && cmake --build build
 dart create project_name
 ```
 
----
-
-## 📚 Recommended Resources
-
-### Books
-- **DDIA** - Designing Data-Intensive Applications (Kleppmann)
-- **OSTEP** - Operating Systems: Three Easy Pieces
-- **CLRS** - Introduction to Algorithms
-- **The Rust Programming Language**
-- **Effective Go**
-
-### Practice Platforms
-- [HackTheBox](https://www.hackthebox.com/) - Security challenges
-- [TryHackMe](https://tryhackme.com/) - Guided security learning
-- [LeetCode](https://leetcode.com/) - Algorithm practice
-- [Exercism](https://exercism.org/) - Language-specific exercises
-- [Advent of Code](https://adventofcode.com/) - Annual coding challenges
-
-### Papers
-- Raft Consensus Algorithm
-- Google File System (GFS)
-- MapReduce
-- Dynamo: Amazon's Key-Value Store
-- Kafka: A Distributed Messaging System
 
 ---
 
-## 📊 Progress Tracking
-
-Use checkboxes in each project's README to track completion:
-
-```markdown
-## Implementations
-
-- [x] Go
-- [x] Python
-- [ ] C
-- [ ] Rust
-- [x] Java
-- [ ] C++
-- [ ] Dart
-```
-
----
-
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -881,10 +836,6 @@ Use checkboxes in each project's README to track completion:
 
 ---
 
-## 📄 License
+## License
 
 MIT License - feel free to use these projects for learning and portfolio building.
-
----
-
-**Happy coding! Remember: the goal is not just to complete projects, but to deeply understand the concepts by implementing them multiple times in different languages.**
