@@ -782,7 +782,7 @@ Web servers, REST APIs, GraphQL, authentication, and microservices.
 
 ---
 
-## 🛠️ Language-Specific Setup
+## Language-Specific Setup
 
 ### Go
 ```bash
